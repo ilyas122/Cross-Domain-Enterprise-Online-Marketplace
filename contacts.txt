@@ -1,0 +1,6 @@
+Jesee,Avanakshi,31465487654,jesee@gmail.com,Manager
+Prathyusha,Pranu,76587698765,prathyusha@gmail.com,Asst Manager
+Anusha,Angel,3218767654,anusha@gmail.com,Store Manager
+Hari,Reddy,34576890876,hari@gmail.com,Store Manager
+Jack,Joy, 76534678654,Jack@gmail.com,Store Manager
+Customer Care,help, 2345103982,info@gmail.com, Call for help
